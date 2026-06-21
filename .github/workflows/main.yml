@@ -1,0 +1,8 @@
+
+cd المسار/إلى/مجلد/project
+git init
+git add .
+git commit -m "واحة اللعب - الإصدار الأول"
+git branch -M main
+git remote add origin https://github.com/اسمك/waha-al-lab.git
+git push -u origin main
